@@ -1,6 +1,6 @@
 ## 1. Network Structure
 
-StyleGan系列：
+* StyleGan系列：
 1. A Style-Based Generator Architecture for Generative Adversarial Networks  [NVlabs/stylegan: StyleGAN - Official TensorFlow Implementation (github.com)](https://github.com/NVlabs/stylegan)
 2. Analyzing and Improving the Image Quality of StyleGAN   [NVlabs/stylegan2: StyleGAN2 - Official TensorFlow Implementation (github.com)](https://github.com/NVlabs/stylegan2)
 
