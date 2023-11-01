@@ -8,25 +8,13 @@
 
 ## 2. Avatar
 ### 2.1. Face
-A Morphable Model For The Synthesis Of 3D Faces 
-https://github.com/MichaelMure/3DMM
+* A Morphable Model For The Synthesis Of 3D Faces 
+	* https://github.com/MichaelMure/3DMM
 
-
-FLAME: Learning a model of facial shape and expression from 4D scans
-[FLAME (mpg.de)](https://flame.is.tue.mpg.de/)
-
-
-
-
+* FLAME: Learning a model of facial shape and expression from 4D scans
+	* [FLAME (mpg.de)](https://flame.is.tue.mpg.de/)
 
 ## 3. 3D Generation
-
-
-
-
-
-
-
 
 ### To be done
 
