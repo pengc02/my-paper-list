@@ -16,7 +16,37 @@
 
 ## 3. 3D Generation
 
-### To be done
+
+* DreamFusion
+	* [DreamFusion: Text-to-3D using 2D Diffusion (dreamfusion3d.github.io)](https://dreamfusion3d.github.io/)
+	* Description：propose SDS loss
+
+* ProlificDreamer
+	* [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation (tsinghua.edu.cn)](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)
+	* Description：propose VDS loss
+
+* zero-123
+
+* zero-123++
+
+* DreamCraft3D
+	* [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior (mrtornado24.github.io)](https://mrtornado24.github.io/DreamCraft3D/)
+
+
+
+## 4. 3D-Representation
+
+
+* Indoor Segmentation and Support Inference from RGBD Images
+	* 相当早期的标注深度数据集
+	* 提出深度和normal预测方法
+
+
+* GeoNet
+	* [xjqi/GeoNet: GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation (github.com)](https://github.com/xjqi/GeoNet)
+	* CVPR 2018
+
+## To be done
 
 MVDream: Multi-view Diffusion for 3D Generation
 https://mv-dream.github.io/
