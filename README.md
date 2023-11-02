@@ -40,6 +40,7 @@
 * Indoor Segmentation and Support Inference from RGBD Images
 	* 相当早期的标注深度数据集
 	* 提出深度和normal预测方法
+	* ECCV-12
 
 
 * GeoNet
