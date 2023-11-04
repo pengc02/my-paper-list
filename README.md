@@ -42,10 +42,22 @@
 	* 提出深度和normal预测方法
 	* ECCV-12
 
-
 * GeoNet
 	* [xjqi/GeoNet: GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation (github.com)](https://github.com/xjqi/GeoNet)
 	* CVPR 2018
+
+* NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction
+	* [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction (lingjie0206.github.io)](https://lingjie0206.github.io/papers/NeuS/)
+	* NeurIPS 2021 (Spotlight)
+	* signed distance function (SDF) 与 neural SDF 表示
+
+* 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+	* [3D Gaussian Splatting for Real-Time Radiance Field Rendering (inria.fr)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+	* TOG 2023
+
+* DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
+	* [DreamGaussian](https://dreamgaussian.github.io/)
+
 
 ## To be done
 
