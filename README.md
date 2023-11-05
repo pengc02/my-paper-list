@@ -29,10 +29,14 @@
 
 * zero-123++
 
+* Magic123
+	* [Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors (guochengqian.github.io)](https://guochengqian.github.io/project/magic123/)
+
+
 * DreamCraft3D
 	* [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior (mrtornado24.github.io)](https://mrtornado24.github.io/DreamCraft3D/)
 
-
+* DreamGaussian
 
 ## 4. 3D-Representation
 
@@ -54,6 +58,7 @@
 * 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 	* [3D Gaussian Splatting for Real-Time Radiance Field Rendering (inria.fr)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 	* TOG 2023
+	* 提供了一种整体思想类似Nerf但是效率更高的高斯点云方法
 
 * DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
 	* [DreamGaussian](https://dreamgaussian.github.io/)
