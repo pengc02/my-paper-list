@@ -26,8 +26,15 @@
 	* Description：propose VDS loss
 
 * zero-123
+	* provide objaverse dataset [Objaverse (allenai.org)](https://objaverse.allenai.org/)
+	* train a novel-view generator
 
 * zero-123++
+
+
+* One-2-3-45
+	* [One-2-3-45](https://one-2-3-45.github.io/)
+	* Use Zero123 to generate multi-view images for the input view, and then aim to lift them up to 3D space
 
 * Magic123
 	* [Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors (guochengqian.github.io)](https://guochengqian.github.io/project/magic123/)
@@ -36,7 +43,9 @@
 * DreamCraft3D
 	* [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior (mrtornado24.github.io)](https://mrtornado24.github.io/DreamCraft3D/)
 
-* DreamGaussian
+* DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
+	* [DreamGaussian](https://dreamgaussian.github.io/)
+
 
 ## 4. 3D-Representation
 
@@ -60,9 +69,6 @@
 	* TOG 2023
 	* 提供了一种整体思想类似Nerf但是效率更高的高斯点云方法
 
-* DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
-	* [DreamGaussian](https://dreamgaussian.github.io/)
-
 
 ## To be done
 
@@ -82,6 +88,19 @@ https://dmv3d.github.io
 
 PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction
 https://pf-lrm.github.io/project
+
+SweetDreamer: Aligning Geometric Priors in 2D diffusion for Consistent Text-to-3D
+
+DMTet
+[Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis (nvidia.com)](https://research.nvidia.com/labs/toronto-ai/DMTet/)
+
+EG3D
+[EG3D: Efficient Geometry-aware 3D GANs (nvlabs.github.io)](https://nvlabs.github.io/eg3d/)
+
+[One-2-3-45++ (sudo-ai-3d.github.io)](https://sudo-ai-3d.github.io/One2345plus_page/)
+
+[Instant Neural Graphics Primitives with a Multiresolution Hash Encoding (nvlabs.github.io)](https://nvlabs.github.io/instant-ngp/)
+instant-ngp
 
 
 [justimyhxu/awesome-3D-generation: A curated list of awesome 3d generation papers (github.com)](https://github.com/justimyhxu/awesome-3D-generation)
