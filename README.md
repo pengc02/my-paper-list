@@ -25,6 +25,26 @@
 	* [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation (tsinghua.edu.cn)](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)
 	* Description：propose VDS loss
 
+
+* Magic3d
+	* [Magic3D: High-Resolution Text-to-3D Content Creation (nvidia.com)](https://research.nvidia.com/labs/dir/magic3d/)
+	* 两阶段生成，coarse-to-fine
+
+
+* Magic123
+	* [Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors (guochengqian.github.io)](https://guochengqian.github.io/project/magic123/)
+
+
+* DreamCraft3D
+	* [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior (mrtornado24.github.io)](https://mrtornado24.github.io/DreamCraft3D/)
+
+* DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
+	* [DreamGaussian](https://dreamgaussian.github.io/)
+
+
+
+### 3D大模型
+
 * zero-123
 	* provide objaverse dataset [Objaverse (allenai.org)](https://objaverse.allenai.org/)
 	* train a novel-view generator
@@ -36,15 +56,20 @@
 	* [One-2-3-45](https://one-2-3-45.github.io/)
 	* Use Zero123 to generate multi-view images for the input view, and then aim to lift them up to 3D space
 
-* Magic123
-	* [Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors (guochengqian.github.io)](https://guochengqian.github.io/project/magic123/)
+* LRM: Large Reconstruction Model for Single Image to 3D
+	* https://scalei3d.github.io/LRM/
+
+* Instant3D: Fast Text-to-3D with Sparse-view Generation and Large Reconstruction Model
+	* https://instant-3d.github.io
+
+* DMV3D: Denoising Multi-view Diffusion Using 3D Large Reconstruction Model
+	* https://dmv3d.github.io
+
+* PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction
+	* https://totoro97.github.io/pf-lrm
 
 
-* DreamCraft3D
-	* [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior (mrtornado24.github.io)](https://mrtornado24.github.io/DreamCraft3D/)
 
-* DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
-	* [DreamGaussian](https://dreamgaussian.github.io/)
 
 
 ## 4. 3D-Representation
@@ -75,19 +100,22 @@
 MVDream: Multi-view Diffusion for 3D Generation
 https://mv-dream.github.io/
 
-Instant3D: Fast Text-to-3D with Sparse-view Generation and Large Reconstruction Model
-https://instant-3d.github.io
-“High quality, diverse and Janus-free Text-to-3D in 20 seconds.”
 
+adobe灌了四篇：
 
 LRM: Large Reconstruction Model for Single Image to 3D
 https://scalei3d.github.io/LRM/
+
+Instant3D: Fast Text-to-3D with Sparse-view Generation and Large Reconstruction Model
+https://instant-3d.github.io
+
 
 DMV3D: Denoising Multi-view Diffusion Using 3D Large Reconstruction Model
 https://dmv3d.github.io
 
 PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction
-https://pf-lrm.github.io/project
+https://totoro97.github.io/pf-lrm
+
 
 SweetDreamer: Aligning Geometric Priors in 2D diffusion for Consistent Text-to-3D
 
